@@ -1,0 +1,9 @@
+[package]
+name = "car-alarm-system"
+version = "0.1.0"
+authors = ["Hilmar Gústafsson <hgusta16@student.aau.dk>", "Jonas Hansen <jh13@student.aau.dk>", "Tobias Lambek Jacobsen <tlja16@student.aau.dk>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
